@@ -34,6 +34,11 @@
   <br/>
  <br/>
  📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
+
+ <br/>
+ <br/>
+ [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://zany-offer-3cd.notion.site/fbaf6a02f81344dfbc2329cf60f189e0?v=7b4be346d27040d5acc9d9ad77eb8720&pvs=4)
+
 </div>
 
 
