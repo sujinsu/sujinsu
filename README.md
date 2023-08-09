@@ -35,12 +35,12 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-</div>
+  <br/>
 
 - 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...
 - 📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
+</div>
+
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
