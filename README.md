@@ -1,13 +1,10 @@
 ### Hi there 👋
 <div align="center"> 
-<!--
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  -->
+
 ####  :wave: Welcome my github profile !
 
 
-- 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...
-- 📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
+
 
  <br/>
  <br/>
@@ -43,13 +40,19 @@
 
 </div>
 
+- 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...
+- 📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
 
+<!--
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  -->
 
 <!--
 **sujinsu/sujinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...
+- 📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
