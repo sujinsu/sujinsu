@@ -1,11 +1,14 @@
 ### Hi there 👋
 <div align="center"> 
-
-//![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
+<!--
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  -->
 ####  :wave: Welcome my github profile !
 
-  
+
+- 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...
+- 📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
+
  <br/>
  <br/>
   
