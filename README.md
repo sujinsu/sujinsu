@@ -1,7 +1,6 @@
-### Hi there 👋
 <div align="center"> 
 
-####  :wave: Welcome my github profile !
+####  :wave: Welcome Sujin's profile !
 
 
 
