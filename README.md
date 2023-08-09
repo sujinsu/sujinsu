@@ -21,8 +21,9 @@
 <img src="https://img.shields.io/badge/Apache-JMeter-D22128?style=for-the-badge&logo=Apache JMeter&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
- 
+   <br/>
+   <br/>
+ ![sujinsu's github stats](https://github-readme-stats.vercel.app/api?username=sujinsu&show_icons=true)
    <br/>
    <br/>
  
