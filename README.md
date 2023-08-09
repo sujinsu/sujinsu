@@ -37,7 +37,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 
- 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...
+ 🌱 I’m currently learning Java, SpringBoot, Redis, Kafka, Docker, Kubernetes, ...  <br/>
  📫 How to reach me: whdlsj98@naver.com or whdlsj98@gmail.com
 </div>
 
