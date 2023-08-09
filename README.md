@@ -44,6 +44,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:whdlsj98@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://zany-offer-3cd.notion.site/fbaf6a02f81344dfbc2329cf60f189e0?v=7b4be346d27040d5acc9d9ad77eb8720&pvs=4)
 
+📧 **Email:** [whdlsj98@naver.com](mailto:whdlsj98@naver.com) | [whdlsj98@gmail.com](mailto:whdlsj98@gmail.com)  
+🔗 **Notion:** [Click Here](https://zany-offer-3cd.notion.site/fbaf6a02f81344dfbc2329cf60f189e0?v=7b4be346d27040d5acc9d9ad77eb8720&pvs=4)
+
 </div>
 
 
