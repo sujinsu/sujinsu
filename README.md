@@ -28,7 +28,7 @@
    <br/>
  
 #### :pencil2: Study log
-![Sujin's github stats](https://github-readme-stats.vercel.app/api?username=sujinsu&show_icons=true) 
+
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -52,6 +52,8 @@
   -->
 
 <!--
+![Sujin's github stats](https://github-readme-stats.vercel.app/api?username=sujinsu&show_icons=true) 
+
 **sujinsu/sujinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
