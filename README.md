@@ -1,7 +1,7 @@
 <div align="center"> 
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text="Hello I'm Sujin"&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text="Hello I'm Sujin"&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62)
  
 
 
