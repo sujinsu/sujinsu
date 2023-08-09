@@ -23,12 +23,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    <br/>
    <br/>
-![Sujin's github stats](https://github-readme-stats.vercel.app/api?username=sujinsu&show_icons=true)
+
    <br/>
    <br/>
  
 #### :pencil2: Study log
- 
+![Sujin's github stats](https://github-readme-stats.vercel.app/api?username=sujinsu&show_icons=true) 
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
