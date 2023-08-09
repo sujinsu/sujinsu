@@ -1,10 +1,7 @@
 <div align="center"> 
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Sujin's%20Profile&fontSize=20&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62))
- 
-
-
+#### :wave: Welcome Sujin's profile !
 
 
  <br/>
