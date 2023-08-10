@@ -42,6 +42,8 @@
 📧 **Email:** [whdlsj98@naver.com](mailto:whdlsj98@naver.com) | [whdlsj98@gmail.com](mailto:whdlsj98@gmail.com)  
 
 
+![My GitHub Activity](https://gist.github.com/{sujinsu}/{3de20e5f365b96930a2e4cf869c93b0b}.js)
+
 </div>
 
 
