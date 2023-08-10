@@ -1,12 +1,7 @@
 <div align="center"> 
-
-
 #### :wave: Welcome Sujin's profile !
-
-
  <br/>
- <br/>
-  
+
 ####  :clipboard: Once I've Used 
   
  <br/>
@@ -23,25 +18,15 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    <br/>
    <br/>
-
-   <br/>
-   <br/>
- 
 #### :pencil2: Study log
-
   <br/>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
- <br/>
-
- <br/>
  <br/>
 
 🔗 **Notion:** [Click Here](https://zany-offer-3cd.notion.site/fbaf6a02f81344dfbc2329cf60f189e0?v=7b4be346d27040d5acc9d9ad77eb8720&pvs=4)
  <br/> <br/>
 📧 **Email:** [whdlsj98@naver.com](mailto:whdlsj98@naver.com) | [whdlsj98@gmail.com](mailto:whdlsj98@gmail.com)  
-
 
 </div>
 
