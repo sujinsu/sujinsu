@@ -1,8 +1,6 @@
 <div align="center"> 
 
-
-#### :wave: Welcome Sujin's profile !
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+Sujin's+profile&font=Redressed&size=40)](https://git.io/typing-svg)
 
  <br/>
  <br/>
@@ -32,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
  <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+Sujin's+profile&font=Redressed&size=40)](https://git.io/typing-svg)
+
  <br/>
  <br/>
 
@@ -46,6 +44,7 @@
 
 
 <!--
+#### :wave: Welcome Sujin's profile !
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   -->
 
