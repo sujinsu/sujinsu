@@ -1,11 +1,6 @@
 <div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=👋🏼+Welcome+sujin's+profile&font=Redressed&size=35)](https://git.io/typing-svg)
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=000000&lines=👋🏼+Welcome+sujin's+profile&font=Redressed&size=35" alt="Typing SVG">
-    </a>
-</h1>
 
  
 ####  :clipboard: Once I've Used 
