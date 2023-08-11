@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=👋🏼+Welcome+sujin's+profile&font=Redressed&size=35)](https://git.io/typing-svg)
 
- 
+ <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+
 ####  :clipboard: Once I've Used 
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
