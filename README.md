@@ -1,5 +1,5 @@
 <div align="center"> 
-
+<br/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=👋🏼+Welcome+sujin's+profile&font=Redressed&size=35)](https://git.io/typing-svg)
 
