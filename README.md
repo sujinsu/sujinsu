@@ -43,9 +43,7 @@
 
 
 </div>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujinsu&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<img src="https://raw.githubusercontent.com/sujinsu/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
