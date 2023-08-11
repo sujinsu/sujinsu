@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=👋🏼+Welcome+sujin's+profile&font=Redressed&size=35)](https://git.io/typing-svg)
 
- <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+
 
 ####  :clipboard: Once I've Used 
  <br/>
@@ -42,6 +42,7 @@
 
 
 <!--
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
 #### :wave: Welcome Sujin's profile !
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   -->
