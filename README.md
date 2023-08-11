@@ -1,12 +1,8 @@
 <div align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+Sujin's+profile&font=Redressed&size=40)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7d3bf7&lines=Welcome+Sujin's+profile&font=Redressed&size=40)](https://git.io/typing-svg)
  <br/>
  <br/>
-  
 ####  :clipboard: Once I've Used 
-
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
