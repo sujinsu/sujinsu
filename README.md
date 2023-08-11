@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
  <br/>
-
+<img src="https://raw.githubusercontent.com/sujinsu/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
  <br/>
  <br/>
 
@@ -43,7 +43,7 @@
 
 
 </div>
-<img src="https://raw.githubusercontent.com/sujinsu/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=sujin&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
