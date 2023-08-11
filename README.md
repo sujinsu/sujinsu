@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
  <br/>
-<img src="https://raw.githubusercontent.com/sujinsu/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+Sujin's+profile&font=Redressed&size=40)](https://git.io/typing-svg)
  <br/>
  <br/>
 
